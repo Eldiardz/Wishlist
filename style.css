@@ -1,0 +1,380 @@
+.baza{
+    background-color: green; 
+    height: 500px; 
+    display: flex;
+}
+.photoreview{
+    background-color:  #FCF6E8; 
+    width: 50%; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.photo{
+    background-color: rgb(225, 223, 223); 
+    width: 300px; height: 300px;
+    border-radius: 20px;
+    box-shadow: 29px 33px 8px 1px rgba(34, 60, 80, 0.2);
+    background-image: url(https://sun9-43.userapi.com/impg/c856032/v856032804/176f19/sAFnOivw9so.jpg?size=604x340&quality=96&sign=e8537008e70f9bc0dd399f75d32610b8&type=album); 
+    background-size: 150% 100%;
+    background-position: center center;   
+}
+.textunderphoto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.wishlist{
+    background-color: #D0DBCA; width: 50%; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column;   
+}
+.textunderwishlist{
+   font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px
+}
+.text{
+    font-family:Comic Sans MS;
+    color: #a52a2a; font-size:70px;
+}
+.do1000{
+    height: 700px;
+    display: flex; 
+    flex-direction: column; 
+}
+.textdo1000{
+    background-color: white; 
+    height: 250px; width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    font-family:Comic Sans MS;
+    color: #a52a2a;
+    font-size: 60px; font-weight: bold;
+}
+.items1000{
+    height: 750px; width: 100%;
+    display: flex; justify-content: space-around;
+    
+}
+.item1000one{
+    background-color: #aa927a;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item1000two{
+    background-color: #aa927a;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item1000three{
+    background-color: #aa927a;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item1000four{
+    background-color: #aa927a;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.photoitem1000one{
+    background-color: green; 
+    width: 96%; height: 75%;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://main-cdn.sbermegamarket.ru/big1/hlr-system/-33/467/262/102/421/25/100031836167b0.jpg);
+    background-size: 100% 100%;
+}
+.photoitem1000two{
+    background-color: green; 
+    width: 96%; height: 75%;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://cs12.pikabu.ru/images/big_size_comm/2022-07_5/1658392779172729333.jpg); 
+    background-size: 100% 100%; 
+}
+.photoitem1000three{
+    background-color: green; 
+    width: 96%; 
+    height: 75%; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JylaXUV5wgKX5s6_tWqWN24AnYk8xdpk4Q&s);
+    background-size: 100% 100%;
+}
+.photoitem1000four{
+    background-color: green; 
+    width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://stor.calligraphy-museum.com/source/image/MiniBooks/ccc67a29-aaf8-485e-923f-2f84289ade5e.jpg);
+    background-size: 100% 100%;
+}
+.textitem1000one{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link11000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem1000two{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link21000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem1000three{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link31000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem1000four{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link41000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.do2000{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.textdo2000{
+    background-color: white; 
+    height: 250px; width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    font-family:Comic Sans MS;
+    color: #a52a2a;
+    font-size: 60px; font-weight: bold;
+}
+.items2000{
+    height: 750px; width: 100%;
+    display: flex; justify-content: space-around;
+}
+.item2000one{
+    background-color: #fcf6e8;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item2000two{
+    background-color: #fcf6e8;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item2000three{
+    background-color: #fcf6e8;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.item2000four{
+    background-color: #fcf6e8;
+    width: 24%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.photoitem2000one{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://varvar.su/wp-content/uploads/2020/04/rZCZbctrgJI.jpg);
+    background-size: 100% 100%;
+}
+.photoitem2000two{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://karnavalkostyum.ru/upload/iblock/cc3/cc33278921af5836a0e05a2bd43d8698.jpg);
+    background-size: 100% 100%;
+}
+.photoitem2000three{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://lh4.googleusercontent.com/proxy/G2QO-EHNGpbecrwOTnyM08wVdyPfHYWhnzIy6u7IC5rSaU-AYvJsCFM6lCgowW8KRaz7kyYkHYsn);
+    background-size: 100% 100%
+}
+.photoitem2000four{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cirth.png/220px-Cirth.png);
+    background-size: 100% 100%
+}
+.textitem2000one{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem2000two{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem2000three{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitem2000four{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link12000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link22000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link32000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link42000{
+    font-family: Comic Sans MS; text-align: center;
+}
+.rich{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.textrich{
+    background-color: white; 
+    height: 250px; width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    font-family:Comic Sans MS;
+    color: #a52a2a;
+    font-size: 60px; font-weight: bold; 
+}
+.itemsrich{
+    height: 450px; width: 100%;
+    display: flex; justify-content: space-around;
+}
+.itemrichone{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.itemrichtwo{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.itemrichthree{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.itemrichfour{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.itemrichfive{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.itemrichsix{
+    background-color: #d0dbca;
+    width: 15%; border-radius: 20px; display: flex;
+    flex-direction: column;
+}
+.photoitemrichone{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://resizer.mail.ru/p/599ed8bf-5a97-584f-ab7c-a50920cc1bf8/AQAKtVGlqsq-E8VxPKyhEawNvTtcQmCYf5IlAJ_o2R30xgAKSum9gz1-0S0yrS107hpac64hHDIWHxA1_8irX_-Fvbs.jpg);
+    background-size: 100% 100%;
+}
+.photoitemrichtwo{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://quto.ru/imgs/2021/08/25/11/4848787/c225df3272cf6dfafe932e57bf4e9a5808506019.jpg);
+    background-size: 100% 100%;
+}
+.photoitemrichthree{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://cdn.inmyroom.ru/uploads/post/teaser/24/2488/2488c0b7-91f2-4a48-8dab-7e510b7b5cfd.jpg);
+    background-size: 100% 100%;
+}
+.photoitemrichfour{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg);
+    background-size: 100% 100%;
+}
+.photoitemrichfive{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/3373796/pub_5f9e93841f9f7379927703e1_5f9e947e1f9f73799278e2fc/scale_1200);
+    background-size: 100% 100%;
+}
+.photoitemrichsix{
+    background-color: green; width: 96%; 
+    height: 75%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15px;
+    background-image: url(https://s9.travelask.ru/uploads/post/000/005/848/main_image/full-eb5fe2e708f1cf9632fd7924c7419377.jpg);
+    background-size: 100% 100%;
+}
+.textitemrichone{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitemrichtwo{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitemrichthree{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitemrichfour{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitemrichfive{
+    font-family: Comic Sans MS; text-align: center;
+}
+.textitemrichsix{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link1rich{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link2rich{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link3rich{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link4rich{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link5rich{
+    font-family: Comic Sans MS; text-align: center;
+}
+.link6rich{
+    font-family: Comic Sans MS; text-align: center;
+}
